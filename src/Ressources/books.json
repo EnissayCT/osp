@@ -1,0 +1,118 @@
+{
+    "lycee": [
+        {
+          "id": 1,
+          "icon": "❤",
+          "name": "Maths",
+          "quantity": 4,
+          "new": false
+        },
+        {
+          "id": 2,
+          "icon": "🧲",
+          "name": "Physique",
+          "quantity": 5,
+          "new": false
+        },
+        {
+          "id": 3,
+          "icon": "👩🏻‍🔬",
+          "name": "Chimie",
+          "quantity": 2,
+          "new": false
+        },
+        {
+          "id": 4,
+          "icon": "🏛️",
+          "name": "Philo",
+          "quantity": 5,
+          "new": false
+        },
+        {
+          "id": 5,
+          "icon": "🏞️",
+          "name": "SVT",
+          "quantity": 6,
+          "new": true
+        },
+        {
+          "id": 6,
+          "icon": "🗣️",
+          "name": "English",
+          "quantity": 4,
+          "new": false
+        }
+      ]
+      ,
+    "cpge": [
+        {
+          "id": 1,
+          "icon": "📣",
+          "name": "Mecanics",
+          "quantity": 8,
+           "new": false
+        },
+        {
+          "id": 2,
+          "icon": "🏴‍☠️",
+          "name": "Maths",
+          "quantity": 3,
+          "new": false
+        },
+        {
+          "id": 3,
+          "icon": "📰",
+          "name": "Electricity",
+          "quantity": 7,
+          "new": true
+        },
+        {
+          "id": 4,
+          "icon": "👆",
+          "name": "French",
+          "quantity": 12,
+          "new": true
+        },
+        {
+          "id": 5,
+          "icon": "🃏",
+          "name": "English",
+          "quantity": 9,
+          "new": false
+        }
+      ],
+      "it": [
+        {
+          "id": 1,
+          "icon": "🛒",
+          "name": "Dev",
+          "quantity": 3
+        },
+        {
+          "id": 2,
+          "icon": "🙋‍♀️",
+          "name": "ML",
+          "quantity": 2
+        },
+        {
+          "id": 3,
+          "icon": "🎛️",
+          "name": "AI",
+          "quantity": 2
+        },
+        {
+          "id": 4,
+          "icon": "🌟",
+          "name": "Data",
+          "quantity": 2
+        },
+        {
+          "id": 5,
+          "icon": "🙋‍♀️",
+          "name": "Cyber",
+          "quantity": 6
+        }
+      ]
+      
+      
+}

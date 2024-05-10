@@ -1,0 +1,31 @@
+[
+    {
+      "teacherName": "Hassan",
+      "subject": "Mathematics",
+      "lesson": "Algebra",
+      "description": "Introduction to basic algebraic concepts",
+      "time": "10/April, 10:00 AM"
+    },
+    {
+      "teacherName": "Salwa",
+      "subject": "Science",
+      "lesson": "Biology",
+      "description": "Study of living organisms",
+      "time": "11/April, 11:30 AM"
+    },
+    {
+      "teacherName": "Yassine",
+      "subject": "History",
+      "lesson": "Islam's Golden Age",
+      "description": "Overview of the Great Islamic Empire",
+      "time": "12/April, 1:00 PM"
+    },
+    {
+      "teacherName": "Rania",
+      "subject": "English",
+      "lesson": "Literature",
+      "description": "Exploring classic works of literature",
+      "time": "13/April, 3:00 PM"
+    }
+  ]
+  
